@@ -54,6 +54,8 @@
     </mailingList>
   </mailingLists>
 
+ 
+ 
   <scm>
     <connection>scm:git:git://git.eclipse.org/gitroot/aether/aether-demo.git</connection>
     <developerConnection>scm:git:ssh://git.eclipse.org/gitroot/aether/aether-demo.git</developerConnection>
