@@ -78,6 +78,11 @@
       <artifactId>aether-connector-basic</artifactId>
       <version>${aetherVersion}</version>
     </dependency>
+   <dependency>
+      <groupId>org.glassfish</groupId>
+      <artifactId>javax.transaction</artifactId>
+      <version>3.1.1-b05</version>
+   </dependency>
     <dependency>
       <groupId>org.eclipse.aether</groupId>
       <artifactId>aether-transport-file</artifactId>
